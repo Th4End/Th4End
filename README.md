@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 
 - 🎓 **Education**: Bachelor's in Computer Science.
 - 💻 **Technologies**: Proficient in Javascript, Php, Python, C#, HTML, CSS, SQL.
-- 🌱 **Learning**: Currently learning RestFull API.
+- 🌱 **Learning**: Currently learning RestFull API,PhpFirebase, OpenCv,mediapipe.
 
 ## 🛠️ Skills
 
