@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hello, I'm [Eliazid]!
 
-<!--
-**Th4End/Th4End** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate CS Student with a love for coding, problem-solving, and continuous learning. Explore my repositories to see some of the exciting projects I've been working on!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: Bachelor's in Computer Science.
+- 💻 **Technologies**: Proficient in Javascript, Php, Python, C#, HTML, CSS, SQL.
+- 🌱 **Learning**: Currently learning RestFull API.
+
+## 🛠️ Skills
+
+- **Languages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL
+- **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET
+- **Tools**: Git, VMWARE
+- **Databases**: MySQL, SQL server 
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th4End&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4End&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/eliazid-boulaamail)
+
+## 🌟 Featured Projects
+
+- **[Webservice](https://github.com/Th4End/webservice)**: RESTful API in PHP for managing a medical intrane.
+- **[camera with python](https://github.com/Th4End/camera-with-python)**: A way to learn how to work with cameras in Python using two APIs: OpenCV and Mediapipe..
+
+## 📩 Contact
+
+Feel free to reach out to me via [email](mailto:eliazidb@gmail.com) or connect with me on social media!
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
