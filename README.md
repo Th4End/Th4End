@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4End&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
