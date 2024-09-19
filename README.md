@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 
 - 🎓 **Education**: Bachelor's in Computer Science.
 - 💻 **Technologies**: Proficient in Javascript, Php, Python, C#, HTML, CSS, SQL.
-- 🌱 **Learning**: Currently learning RestFull API,PhpFirebase, OpenCv,mediapipe.
+- 🌱 **Learning**: Currently learning RestFull API,PhpFirebase, OpenCv,  Mediapipe.
 
 ## 🛠️ Skills
 
@@ -35,8 +35,3 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 ## 📩 Contact
 
 Feel free to reach out to me via [email](mailto:eliazidb@gmail.com) or connect with me on social media!
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
