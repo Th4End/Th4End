@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Eliazid]!
+# 👋 Hello, I'm Eliazid!
 
 Welcome to my GitHub profile! I am a passionate CS Student with a love for coding, problem-solving, and continuous learning. Explore my repositories to see some of the exciting projects I've been working on!
 
