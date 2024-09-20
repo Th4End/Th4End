@@ -23,11 +23,6 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th4End&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://images1.vinted.net/t/01_00a33_rkD1k8CnBjJt4yrqUp1DiECS/f800/1688581344.jpeg?s=38df68fdf635404f300cbc4cecc61b62dc2516f3"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
