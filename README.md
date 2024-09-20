@@ -57,6 +57,6 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Th4End/Th4End/snake.yml" alt="Snake animation" />
 
 ###
