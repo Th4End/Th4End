@@ -13,7 +13,12 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 - **Languages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL
 - **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET
 - **Tools**: Git, VMWARE
-- **Databases**: MySQL, SQL server 
+- **Databases**: MySQL, SQL server
+
+## 🌟 Featured Projects
+
+- **[Webservice](https://github.com/Th4End/webservice)**: RESTful API in PHP for managing a medical intrane.
+- **[camera with python](https://github.com/Th4End/camera-with-python)**: A way to learn how to work with cameras in Python using two APIs: OpenCV and Mediapipe..
 
 ## 📈 GitHub Stats
 
@@ -34,7 +39,3 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
 
-## 🌟 Featured Projects
-
-- **[Webservice](https://github.com/Th4End/webservice)**: RESTful API in PHP for managing a medical intrane.
-- **[camera with python](https://github.com/Th4End/camera-with-python)**: A way to learn how to work with cameras in Python using two APIs: OpenCV and Mediapipe..
