@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 
 ###
 
-<img align="right" height="150" src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2099214%2Ff8c71209-bd38-41d1-8cfc-9197518e5acc.jpeg"  />
+<img align="right" height="150" src="https://images1.vinted.net/t/01_00a33_rkD1k8CnBjJt4yrqUp1DiECS/f800/1688581344.jpeg?s=38df68fdf635404f300cbc4cecc61b62dc2516f3"  />
 
 ###
 
@@ -52,11 +52,5 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/Th4End/Th4End/snake.yml" alt="Snake animation" />
 
 ###
