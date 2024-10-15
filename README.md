@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I am a passionate CS Student with a love for codin
 
 ## 🛠️ Skills
 
-- **Languages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL
+- **Languages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
 - **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET
-- **Tools**: Git, VMWARE
+- **Tools**: Git, VMWARE, Docker
 - **Databases**: MySQL, SQL server
 
 ## 🌟 Featured Projects
