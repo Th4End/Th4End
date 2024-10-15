@@ -1,34 +1,33 @@
-# 👋 Hello, I'm Eliazid!
+# 👋 Bonjour, je suis Eliazid !
 
-Welcome to my GitHub profile! I am a passionate CS Student with a love for coding, problem-solving, and continuous learning. Explore my repositories to see some of the exciting projects I've been working on!
+Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-- 🎓 **Education**: Bachelor's in Computer Science.
-- 💻 **Technologies**: Proficient in Javascript, Php, Python, C#, HTML, CSS, SQL.
-- 🌱 **Learning**: Currently learning RestFull API,PhpFirebase, OpenCv,  Mediapipe.
+- 🎓 **Formation**: Bachelor en informatique.
+- 💻 **Technologies**: Compétent en JavaScript, PHP, Python, C#, HTML, CSS, SQL, Java.
+- 🌱 **Apprentissage**:  Actuellement en train d'apprendre les API RESTful, PhpFirebase, OpenCV, Mediapipe, Java.
 
 ## 🛠️ Skills
 
-- **Languages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
+- **Langages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
 - **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET
-- **Tools**: Git, VMWARE, Docker
-- **Databases**: MySQL, SQL server
+- **Outils**: Git, VMWARE, Docker
+- **Bases de données**: MySQL, SQL server, PostgreSQL
 
-## 🌟 Featured Projects
+## 🌟  Projets en vedette
 
-- **[Webservice](https://github.com/Th4End/webservice)**: RESTful API in PHP for managing a medical intrane.
-- **[camera with python](https://github.com/Th4End/camera-with-python)**: A way to learn how to work with cameras in Python using two APIs: OpenCV and Mediapipe..
-
-## 📈 GitHub Stats
+- **[Webservice](https://github.com/Th4End/webservice)**: API RESTful en PHP pour la gestion d'un intranet médical.
+- **[camera with python](https://github.com/Th4End/camera-with-python)**: Une façon d'apprendre à travailler avec des caméras en Python en utilisant deux API : OpenCV et Mediapipe.
+## 📈 Statistiques GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=Th4End&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-## 📊 Most Used Languages
+## 📊  Langages les Plus Utilisés
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th4End&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-## 🔗 Connect with Me
+## 🔗  Connectez-vous avec moi
 
 <a href="https://www.linkedin.com/in/eliazid-boulaamail" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
