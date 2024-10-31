@@ -11,7 +11,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 ## 🛠️ Skills
 
 - **Langages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
-- **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET
+- **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET, Symfony
 - **Outils**: Git, VMWARE, Docker
 - **Bases de données**: MySQL, SQL server, PostgreSQL
 
