@@ -6,13 +6,12 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 
 - 🎓 **Formation**: Bachelor en informatique.
 - 💻 **Technologies**: Compétent en JavaScript, PHP, Python, C#, HTML, CSS, SQL, Java.
-- 🌱 **Apprentissage**:  Actuellement en train d'apprendre les API RESTful, PhpFirebase, OpenCV, Mediapipe, Java.
-
+- 🌱 **Apprentissage**:  Actuellement en train d'apprendre Symfony et java.
 ## 🛠️ Skills
 
 - **Langages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
 - **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET, Symfony
-- **Outils**: Git, VMWARE, Docker
+- **Outils**: Git, VMWARE, Docker, OwaspZAP
 - **Bases de données**: MySQL, SQL server, PostgreSQL
 
 ## 🌟  Projets en vedette
