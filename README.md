@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 
 - 🎓 **Formation**: Bachelor en informatique.
 - 💻 **Technologies**: Compétent en JavaScript, PHP, Python, C#, HTML, CSS, SQL, Java.
-- 🌱 **Apprentissage**:  Actuellement en train d'apprendre Symfony et java.
+- 🌱 **Apprentissage**:  Actuellement en train d'apprendre Symfony et Java.
 ## 🛠️ Skills
 
 - **Langages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
@@ -14,7 +14,7 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 - **Outils**: Git, VMWARE, Docker, OwaspZAP
 - **Bases de données**: MySQL, SQL server, PostgreSQL
 
-## 🌟  Projets en vedette
+## 🌟  Projets vedette
 
 - **[Webservice](https://github.com/Th4End/webservice)**: API RESTful en PHP pour la gestion d'un intranet médical.
 - **[camera with python](https://github.com/Th4End/camera-with-python)**: Une façon d'apprendre à travailler avec des caméras en Python en utilisant deux API : OpenCV et Mediapipe.
