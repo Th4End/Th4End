@@ -1,39 +1,24 @@
-# 👋 Bonjour, je suis Eliazid !
+# 💫 About Me:
+👋 Bonjour, je suis Eliazid !<br>Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !<br><br>🚀 À propos de moi<br>🎓 Formation: Bachelor en informatique.<br>💻 Technologies: Compétent en JavaScript, PHP, Python, C#, HTML, CSS, SQL, Java.<br>🌱 Apprentissage: Actuellement en train d'apprendre Symfony et Java.<br>🛠️ Skills<br>Langages: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java<br>Frameworks: Laravel,SLIM4,SAPUI,Bootstrap ,.NET, Symfony<br>Outils: Git, VMWARE, Docker, OwaspZAP<br>Bases de données: MySQL, SQL server, PostgreSQL<br>🌟
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !
 
-## 🚀 À propos de moi
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eliazid-boulaamail) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliazidb@gmail.com) 
 
-- 🎓 **Formation**: Bachelor en informatique.
-- 💻 **Technologies**: Compétent en JavaScript, PHP, Python, C#, HTML, CSS, SQL, Java.
-- 🌱 **Apprentissage**:  Actuellement en train d'apprendre Symfony et Java.
-## 🛠️ Skills
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Th4End&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Th4End&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4End&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Langages**: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java
-- **Frameworks**: Laravel,SLIM4,SAPUI,Bootstrap ,.NET, Symfony
-- **Outils**: Git, VMWARE, Docker, OwaspZAP
-- **Bases de données**: MySQL, SQL server, PostgreSQL
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌟  Projets vedette
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Th4End&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-- **[Webservice](https://github.com/Th4End/webservice)**: API RESTful en PHP pour la gestion d'un intranet médical.
-- **[camera with python](https://github.com/Th4End/camera-with-python)**: Une façon d'apprendre à travailler avec des caméras en Python en utilisant deux API : OpenCV et Mediapipe.
-## 📈 Statistiques GitHub
+---
+[![](https://visitcount.itsvg.in/api?id=Th4End&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Th4End&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-## 📊  Langages les Plus Utilisés
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th4End&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-## 🔗  Connectez-vous avec moi
-
-<a href="https://www.linkedin.com/in/eliazid-boulaamail" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
-## 📩 Contact
-<a href = "mailto:eliazidb@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-
+Built with ❤️ by Th4End
