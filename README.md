@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour, je suis Eliazid !<br>Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !<br><br>🚀 À propos de moi<br>🎓 Formation: Bachelor en informatique.<br>💻 Technologies: Compétent en JavaScript, PHP, Python, C#, HTML, CSS, SQL, Java.<br>🌱 Apprentissage: Actuellement en train d'apprendre Symfony et Java.<br>🛠️ Skills<br>Langages: Python, JavaScript, PHP, C#,HTML,CSS,SQL, Java<br>Frameworks: Laravel,SLIM4,SAPUI,Bootstrap ,.NET, Symfony<br>Outils: Git, VMWARE, Docker, OwaspZAP<br>Bases de données: MySQL, SQL server, PostgreSQL<br>🌟
+👋 Bonjour, je suis Eliazid !<br>Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !<br><br>🚀 À propos de moi<br>🎓 Formation: Bachelor en informatique.
 
 
 ## 🌐 Socials:
