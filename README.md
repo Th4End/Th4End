@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour, je suis Eliazid !<br>Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !<br><br>🚀 À propos de moi<br>🎓 Formation: Bachelor en informatique.
+👋 Bonjour, je suis Eliazid !<br>Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné, avec un amour pour la programmation, la résolution de problèmes et l'apprentissage continu. Explorez mes dépôts pour découvrir certains des projets passionnants sur lesquels j'ai travaillé !<br><br>🚀 À propos de moi<br>🎓 Formation: Mastère Expert en informatique et Système d'information.
 
 
 ## 🌐 Socials:
