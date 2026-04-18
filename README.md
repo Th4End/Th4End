@@ -89,8 +89,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Th4End&show_icons=true&theme=dracula&hide_border=false&cache_seconds=7200" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th4End&layout=compact&theme=dracula&hide_border=true" height="200" alt="stats graph /><br>
-   
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th4End&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ###
