@@ -88,8 +88,9 @@
 ###
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Th4End&show_icons=true&theme=dracula&hide_border=false&cache_seconds=7200" height="200" alt="stats graph" /> -->
-  <img src="https://github-stats-cards.matheodelaunay.studio/api/top-langs?username=Th4End&theme=dracula&locale=en" height="200" alt="stats graph /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Th4End&show_icons=true&theme=dracula&hide_border=false&cache_seconds=7200" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th4End&layout=compact&theme=dracula&hide_border=true" height="200" alt="stats graph /><br>
+   
 </div>
 
 ###
